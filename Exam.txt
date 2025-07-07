@@ -1,0 +1,13 @@
+the command line to use in creating a dierctory is (mkdir (space) the file name)
+the command line to create a file is (touch (space) the file name)
+the command line to use in listing the content of the directory is (LS)
+the command line to use in changing directory is (CD ..)
+my current path on the directory is ( /C/users/STUDENT/Exam_001
+
+
+
+
+
+
+
+
